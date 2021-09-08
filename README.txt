@@ -1,13 +1,13 @@
 ===================================================
 Software Name: T01 Photo Editor
-Version 1.0,	Date: Dec. 11th, 2020
+Version 1.0,	Date: Sep. 8th, 2021
 
 ===================================================
 Contact Information
 ===================================================
 
 Lead Developer: Michael Whitford
-Email: 		michaelwhitford@cmail.carleton.ca
+Email: 	  mike.whitford23@gmail.com
 Phone Number:   613-883-6523
 
 ===================================================
@@ -218,7 +218,7 @@ Filter Developers:
 ==============================================================================
 License:
 
-Copyright (c) [2020] [Michael Whitford]
+Copyright (c) [2021] [Michael Whitford]
 
 Permission is hereby granted, to any person obtaining a copy
 of this software and associated documentation files 
